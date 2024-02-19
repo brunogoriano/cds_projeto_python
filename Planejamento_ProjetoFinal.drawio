@@ -1,0 +1,49 @@
+<mxfile host="app.diagrams.net" modified="2024-01-20T22:23:00.022Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="2ON0oQidHHJiMTc7aswq" version="22.1.18" type="device">
+  <diagram name="Página-1" id="BfKq4orMQFs4bpFP023z">
+    <mxGraphModel dx="683" dy="846" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="4tzLfZLTvzoeqneuNQoU-2" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="90" y="150" width="490" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="yABX1ba_WyBfvysUMIHI-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;HOME&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="4tzLfZLTvzoeqneuNQoU-2" vertex="1">
+          <mxGeometry width="490" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yABX1ba_WyBfvysUMIHI-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="4tzLfZLTvzoeqneuNQoU-2" vertex="1">
+          <mxGeometry y="30" width="490" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="yABX1ba_WyBfvysUMIHI-3" value="Qtde&lt;br&gt;Países" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="110" y="210" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yABX1ba_WyBfvysUMIHI-4" value="Mapa" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="110" y="290" width="450" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="yABX1ba_WyBfvysUMIHI-5" value="Qtde&lt;br&gt;Cidades" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="210" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yABX1ba_WyBfvysUMIHI-6" value="Qtde&lt;br&gt;Restaurantes" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="290" y="210" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yABX1ba_WyBfvysUMIHI-7" value="Qtde&lt;br&gt;Cozinhas" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="380" y="210" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yABX1ba_WyBfvysUMIHI-8" value="Qtde&lt;br&gt;Avaliações" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="470" y="210" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4tzLfZLTvzoeqneuNQoU-3" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="90" y="540" width="490" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="4tzLfZLTvzoeqneuNQoU-4" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;COUNTRIES&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="4tzLfZLTvzoeqneuNQoU-3">
+          <mxGeometry width="490" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4tzLfZLTvzoeqneuNQoU-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="4tzLfZLTvzoeqneuNQoU-3">
+          <mxGeometry y="30" width="490" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="4tzLfZLTvzoeqneuNQoU-6" value="Analisar País por = CIDADES, RESTAURANTES, CULINÁRIAS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="4tzLfZLTvzoeqneuNQoU-3">
+          <mxGeometry x="20" y="50" width="450" height="140" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
