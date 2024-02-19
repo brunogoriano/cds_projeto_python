@@ -1,7 +1,7 @@
 #Libraries
 #from haversine import haversine
 import plotly.express as px
-import plotly.graph_objects as go
+#import plotly.graph_objects as go
 
 #Bibliotecas
 import pandas as pd
